@@ -6,5 +6,7 @@ public class Persom {
         System.out.println("pu2方法");
         System.out.println("pu3方法");
         System.out.println("pu4方法");
+        System.out.println("pu5方法");
+
     }
 }
