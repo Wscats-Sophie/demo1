@@ -8,8 +8,8 @@ public class Persom {
         System.out.println("pu3方法");
         System.out.println("pu4方法");
         System.out.println("pu5方法");
-
         System.out.println("pu6方法");
+        System.out.println("pu7方法");
 
     }
 }
