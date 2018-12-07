@@ -11,5 +11,6 @@ public class Persom {
         System.out.println("pu6方法");
         System.out.println("pu7方法");
         System.out.println("34");
+        System.out.println("横艾了");
     }
 }
